@@ -1,7 +1,7 @@
 
 ## Olá, meu nome é Hendrix 👋
 
-#### Este é meu perfil pessoal onde público meus projetos pessoais e pratico meus estudos
+#### Este é meu perfil pessoal onde público meus projetos pessoais e prático meus estudos
 
 ### Contate-me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendrixoliveira/)
