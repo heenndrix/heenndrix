@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
-![Hendrix GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Hendrix GitHub stats](https://github-readme-stats.vercel.app/api?username=heenndrix&show_icons=true&theme=transparent)
 
 ### Principais tecnologias que utilizo
 
