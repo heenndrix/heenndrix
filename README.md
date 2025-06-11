@@ -1,19 +1,6 @@
 
-# Olá, me chamo Hendrix 👋
-## Bem vindo ao meu perfil GitHub!
+# Hello, i'm Hendrix 👋
+## Welcome to my github profile!
+### Contact me: hendrixoliveira89@gmail.com
 
 
-###### Tecnologias que utilizo:
-* Java - Spring Boot
-* Angular
-* SQL
-* AWS
-
-
-# Tech Stack 💻
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,angular,mongodb,npm,postman,hibernate&theme=light)](https://skillicons.dev)
-
-# Contato: 🌐
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/hendrixoliveira)
